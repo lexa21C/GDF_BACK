@@ -1,0 +1,82 @@
+[{
+  "_id": "1",
+  "program_level": "AUXILIAR"
+},{
+  "_id": "2",
+  "program_level": "TÉCNICO"
+},{
+  "_id": "3",
+  "program_level": "INGENIERO TÉCNICO"
+},{
+  "_id": "4",
+  "program_level": "TÉCNICO PROFESIONAL"
+},{
+  "_id": "5",
+  "program_level": "ESPECIALIZACIÓN TÉCNICA"
+},{
+  "_id": "6",
+  "program_level": "TECNÓLOGO"
+},{
+  "_id": "7",
+  "program_level": "ESPECIALIZACIÓN TECNOLÓGICA"
+},{
+  "_id": "8",
+  "program_level": "CURSO ESPECIAL"
+},{
+  "_id": "9",
+  "program_level": "EVENTO DE DIVULGACIÓN TECNOLÓGICA"
+},{
+  "_id": "10",
+  "program_level": "OPERARIO"
+},{
+  "_id": "11",
+  "program_level": "COMPLEMENTARIA VIRTUAL"
+},{
+  "_id": "12",
+  "program_level": "OCUPACION"
+},{
+  "_id": "13",
+  "program_level": "TÉCNICO LABORAL"
+},{
+  "_id": "14",
+  "program_level": "DIPLOMA TECNICO PROFESIONAL"
+},{
+  "_id": "15",
+  "program_level": "DIPLOMA TECNOLOGO"
+},{
+  "_id": "16",
+  "program_level": "C.A.P. TECNICO"
+},{
+  "_id": "18",
+  "program_level": "AYUDANTE"
+},{
+  "_id": "20",
+  "program_level": "TECNÓLOGO INTERINSTITUCIONAL"
+},{
+  "_id": "21",
+  "program_level": "TÉCNICO PROFESIONAL INTERINSTITUCIONAL"
+},{
+  "_id": "22",
+  "program_level": "FORMACIÓN INTERINSTITUCIONAL"
+},{
+  "_id": "100",
+  "program_level": "C.A.P. TRAB. CALIFICADO"
+},{
+  "_id": "101",
+  "program_level": "DIPLOMA TECNICO"
+},{
+  "_id": "102",
+  "program_level": "CERT.FORM.ESP.OFICIO"
+},{
+  "_id": "103",
+  "program_level": "CERT.ESPECIALIZACION"
+},{
+  "_id": "108",
+  "program_level": "TRABAJADOR CALIFICADO"
+},{
+  "_id": "223",
+  "program_level": "PROFUNDIZACIÓN TÉCNICA"
+},{
+  "_id": "225",
+  "program_level": "TÉCNICO LABORAL1"
+}]

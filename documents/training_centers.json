@@ -1,0 +1,1099 @@
+[{
+  "_id": "9101",
+  "regionale": "2",
+  "training_center": "9101-Centro de los Recursos Naturales Renovables -La Salada",
+  "center_direction": "Km 6 Vía a la Pintada Caldas Antioquia",
+  "telephone_center": "42962 - 42935",
+  "email_center": "afruiz@sena.edu.co ",
+  "vice_principal": "Andrés Felipe Ruiz Márquez",
+  "contact_vice_principal": "afruiz@sena.edu.co "
+},{
+  "_id": "9103",
+  "regionale": "4",
+  "training_center": "9103-Centro para el Desarrollo Agroecologico y Agroindustrial",
+  "center_direction": "Calle 9  19-120 ",
+  "telephone_center": "52002",
+  "email_center": "csdaza@sena.edu.co",
+  "vice_principal": "Carmen Sofía Daza Beltrán",
+  "contact_vice_principal": "csdaza@sena.edu.co"
+},{
+  "_id": "9104",
+  "regionale": "5",
+  "training_center": "9104-Centro Agroempresarial y Minero",
+  "center_direction": "Ternera Km 1 Vía Turbaco",
+  "telephone_center": "52452",
+  "email_center": "bcpinto@sena.edu.co",
+  "vice_principal": "Bibiana Cecilia Pinto Tovar",
+  "contact_vice_principal": "bcpinto@sena.edu.co"
+},{
+  "_id": "9105",
+  "regionale": "5",
+  "training_center": "9105-Centro Internacional Náutico, Fluvial y Portuario",
+  "center_direction": "Carretera Mamonal Km 5",
+  "telephone_center": "52700",
+  "email_center": "bbetin@sena.edu.co",
+  "vice_principal": "Bibiana del Carmen Betin Hoyos",
+  "contact_vice_principal": "bbetin@sena.edu.co"
+},{
+  "_id": "9110",
+  "regionale": "6",
+  "training_center": "9110-Centro de Desarrollo Agropecuario y Agroindustrial ",
+  "center_direction": "Kilómetro 1 Vía Duitama - Pantano de Vargas",
+  "telephone_center": "82350",
+  "email_center": "imrojasr@sena.edu.co",
+  "vice_principal": "Iván Mauricio Rojas Ruiz",
+  "contact_vice_principal": "imrojasr@sena.edu.co"
+},{
+  "_id": "9111",
+  "regionale": "6",
+  "training_center": "9111-Centro  Minero",
+  "center_direction": "Veredá Morcá",
+  "telephone_center": "82451",
+  "email_center": "juan.pinilla@sena.edu.co",
+  "vice_principal": "Juan Carlos Pinilla Holguín",
+  "contact_vice_principal": "juan.pinilla@sena.edu.co"
+},{
+  "_id": "9112",
+  "regionale": "7",
+  "training_center": "9112-Centro para la Formación Cafetera",
+  "center_direction": "Kilómetro 10 Vía al Magdalena",
+  "telephone_center": "62052",
+  "email_center": "caospina@sena.edu.co ",
+  "vice_principal": "Carlos Alberto Ospina Rivera",
+  "contact_vice_principal": "caospina@sena.edu.co "
+},{
+  "_id": "9113",
+  "regionale": "10",
+  "training_center": "9113-Centro Agropecuario",
+  "center_direction": "Carrera 9N  71N-60 Sede Alto Cauca",
+  "telephone_center": "22112",
+  "email_center": "sflopez@sena.edu.co",
+  "vice_principal": "Sergio Fabricio Lopez Muñoz ",
+  "contact_vice_principal": "sflopez@sena.edu.co"
+},{
+  "_id": "9114",
+  "regionale": "11",
+  "training_center": "9114-Centro Biotecnológico del Caribe",
+  "center_direction": "Km. 7 Vía a La Paz",
+  "telephone_center": "52956",
+  "email_center": "eomena@sena.edu.co",
+  "vice_principal": "Eduardo Oliver Mena Rodríguez",
+  "contact_vice_principal": "eomena@sena.edu.co"
+},{
+  "_id": "9115",
+  "regionale": "13",
+  "training_center": "9115-Centro Agropecuario y de Biotecnología el Porvenir",
+  "center_direction": "k. 45 corregimiento Santa Isabel vía Tierralta",
+  "telephone_center": "44350",
+  "email_center": "jose.barrios@sena.edu.co",
+  "vice_principal": "José Nicolás Barrios Sierra",
+  "contact_vice_principal": "jose.barrios@sena.edu.co"
+},{
+  "_id": "9117",
+  "regionale": "22",
+  "training_center": "9117-Centro Agroindustrial del Meta",
+  "center_direction": "Km 17 Via Puerto López",
+  "telephone_center": "84191",
+  "email_center": "raguilera@sena.edu.co",
+  "vice_principal": "Rafael Ángel Aguilera Martínez ",
+  "contact_vice_principal": "raguilera@sena.edu.co"
+},{
+  "_id": "9118",
+  "regionale": "21",
+  "training_center": "9118-Centro Acuícola y Agroindustrial de Gaira",
+  "center_direction": "Kilometro 5 carretera a Gaira",
+  "telephone_center": "54109",
+  "email_center": "bzableh@sena.edu.co",
+  "vice_principal": "Bichara José Zableh Hasbun",
+  "contact_vice_principal": "bzableh@sena.edu.co"
+},{
+  "_id": "9119",
+  "regionale": "24",
+  "training_center": "9119-Centro de Formación para el Desarrollo Rural y Minero",
+  "center_direction": "Calle 2N  Avenidas 4y5 Pescadero",
+  "telephone_center": "72638",
+  "email_center": "dbarrera@sena.edu.co",
+  "vice_principal": "Dennis Cristal Barrera Cotamo",
+  "contact_vice_principal": "dbarrera@sena.edu.co"
+},{
+  "_id": "9121",
+  "regionale": "27",
+  "training_center": "9121-Centro Atención Sector Agropecuario",
+  "center_direction": "Cra 8ª 26-79",
+  "telephone_center": "63271",
+  "email_center": "gasanchezs@sena.edu.co",
+  "vice_principal": "Germán Andrés Sánchez Sánchez",
+  "contact_vice_principal": "gasanchezs@sena.edu.co"
+},{
+  "_id": "9122",
+  "regionale": "29",
+  "training_center": "9122-Centro Atención Sector Agropecuario",
+  "center_direction": "Piedecuesta Kl 2 Via Palogordo Vereda Guatiguara",
+  "telephone_center": "73200",
+  "email_center": "lhernandezs@sena.edu.co",
+  "vice_principal": "Leonardo Hernández Silva ",
+  "contact_vice_principal": "lhernandezs@sena.edu.co"
+},{
+  "_id": "9123",
+  "regionale": "31",
+  "training_center": "9123-Centro Agropecuario la Granja",
+  "center_direction": "Kilómetro 5 Vía Espinal ",
+  "telephone_center": "84650",
+  "email_center": "jerobayom@sena.edu.co",
+  "vice_principal": "Jairo Enrique Robayo Moreno",
+  "contact_vice_principal": "jerobayom@sena.edu.co"
+},{
+  "_id": "9125",
+  "regionale": "32",
+  "training_center": "9125-Centro Latinoamericano de  Especies Menores",
+  "center_direction": "Carretera Central a Tulúa Kilómetro 2",
+  "telephone_center": "23850",
+  "email_center": "german.suarez@sena.edu.co",
+  "vice_principal": "Germán Suárez García",
+  "contact_vice_principal": "german.suarez@sena.edu.co"
+},{
+  "_id": "9126",
+  "regionale": "32",
+  "training_center": "9126-Centro Náutico Pesquero de Buenaventura",
+  "center_direction": "Avenida Simón Bolivar Kilómetro 5",
+  "telephone_center": "23400",
+  "email_center": "dmorenof@sena.edu.co",
+  "vice_principal": "Diana Alejandrina Moreno Ferrin",
+  "contact_vice_principal": "dmorenof@sena.edu.co"
+},{
+  "_id": "9127",
+  "regionale": "2",
+  "training_center": "9127-Centro de Formación Minero Ambiental",
+  "center_direction": "El Bagre - Municipio El Bagre en el sector conocido como los Comodatos de Arriba",
+  "telephone_center": "45126",
+  "email_center": "jjimenez@sena.edu.co ",
+  "vice_principal": "Jairo León Jimenez Zapata",
+  "contact_vice_principal": "jjimenez@sena.edu.co "
+},{
+  "_id": "9202",
+  "regionale": "2",
+  "training_center": "9202-Centro de Formación en Diseño, Confección y Moda.",
+  "center_direction": "Cl.63  58B-03  Itagui-Calatrava",
+  "telephone_center": "43209",
+  "email_center": "lotero@sena.edu.co",
+  "vice_principal": "León Arturo Otero Botero",
+  "contact_vice_principal": "lotero@sena.edu.co"
+},{
+  "_id": "9204",
+  "regionale": "2",
+  "training_center": "9204-Centro de Tecnología de la Manufactura Avanzada.",
+  "center_direction": "Diag.104  69-120 El pedregal",
+  "telephone_center": "43306",
+  "email_center": "glopez@sena.edu.co",
+  "vice_principal": "Gustavo Adolfo López de Mesa Gutiérrez",
+  "contact_vice_principal": "glopez@sena.edu.co"
+},{
+  "_id": "9205",
+  "regionale": "2",
+  "training_center": "9205-Centro Tecnológico del Mobiliario",
+  "center_direction": "Cl.63  58B-03  Itagui-Calatrava",
+  "telephone_center": "43104 - 43101",
+  "email_center": "etobon@sena.edu.co",
+  "vice_principal": "Elkin Darío Tobón Tamayo",
+  "contact_vice_principal": "etobon@sena.edu.co"
+},{
+  "_id": "9206",
+  "regionale": "2",
+  "training_center": "9206-Centro Textil y de Gestión Industrial",
+  "center_direction": "Diag.104  69-120 El pedregal",
+  "telephone_center": "43620",
+  "email_center": "oloperal@sena.edu.co",
+  "vice_principal": "Olga Lucía Lopera Lopera",
+  "contact_vice_principal": "oloperal@sena.edu.co"
+},{
+  "_id": "9207",
+  "regionale": "4",
+  "training_center": "9207-Centro Nacional Colombo Alemán",
+  "center_direction": "Calle 30  3E-164",
+  "telephone_center": "52200",
+  "email_center": "vfarbelaezt@sena.edu.co",
+  "vice_principal": "Victor Fabián Arbelaez Torrejano",
+  "contact_vice_principal": "vfarbelaezt@sena.edu.co"
+},{
+  "_id": "9208",
+  "regionale": "4",
+  "training_center": "9208-Centro Industrial y de Aviación  ",
+  "center_direction": "Calle 30  3E-164",
+  "telephone_center": "52202",
+  "email_center": "jgsuarez@sena.edu.co",
+  "vice_principal": "Jose Gregorio Suárez Contreras",
+  "contact_vice_principal": "jgsuarez@sena.edu.co"
+},{
+  "_id": "9209",
+  "regionale": "15",
+  "training_center": "9209-Centro de Tecnologías para la Construcción y la Madera",
+  "center_direction": "Autopista Sur, Carrera 4 # 53-54 - Zona industrial Cazucá",
+  "telephone_center": "14753",
+  "email_center": "jvalenciae@sena.edu.co",
+  "vice_principal": "Jaime Eduardo Valencia Escandón",
+  "contact_vice_principal": "jvalenciae@sena.edu.co"
+},{
+  "_id": "9218",
+  "regionale": "5",
+  "training_center": "9218-Centro para la Industria Petroquímica",
+  "center_direction": "Avenida Pedro de Heredia, Sector Tesca",
+  "telephone_center": "52800 - 52816",
+  "email_center": "rplatac@sena.edu.co",
+  "vice_principal": "Roberto Plata Chacón",
+  "contact_vice_principal": "rplatac@sena.edu.co"
+},{
+  "_id": "9219",
+  "regionale": "7",
+  "training_center": "9219-Centro de Automatización Industrial",
+  "center_direction": "Kilómetro 10 Vía al Magdalena",
+  "telephone_center": "62008",
+  "email_center": "cpsanchez@sena.edu.co",
+  "vice_principal": "Claudia Patricia Sanchez Marín",
+  "contact_vice_principal": "cpsanchez@sena.edu.co"
+},{
+  "_id": "9220",
+  "regionale": "7",
+  "training_center": "9220-Centro de Procesos Industriales y Construcción",
+  "center_direction": "Kilómetro 10 Vía al Magdalena",
+  "telephone_center": "62011",
+  "email_center": "jcrugeo@sena.edu.co",
+  "vice_principal": "Juan Carlos Ruge Osorio",
+  "contact_vice_principal": "jcrugeo@sena.edu.co"
+},{
+  "_id": "9225",
+  "regionale": "29",
+  "training_center": "9225-Centro Industrial del Diseño y la Manufactura",
+  "center_direction": "K6 Autopista a Floridablanca n 55-33",
+  "telephone_center": "73550",
+  "email_center": "jmcastillo@sena.edu.co",
+  "vice_principal": "Juan Manuel Castillo Calderón",
+  "contact_vice_principal": "jmcastillo@sena.edu.co"
+},{
+  "_id": "9532",
+  "regionale": "22",
+  "training_center": "9532-Centro de Industria y Servicios del Meta",
+  "center_direction": "Km 1 Vía Acacias",
+  "telephone_center": "84001",
+  "email_center": "bramirezp@sena.edu.co",
+  "vice_principal": "Bertha Lucía Ramírez Parra",
+  "contact_vice_principal": "bramirezp@sena.edu.co"
+},{
+  "_id": "9224",
+  "regionale": "29",
+  "training_center": "9224-centro Industrial De Mantenimiento Integral",
+  "center_direction": "Giron Kl 7 Via Rincon De Giron",
+  "telephone_center": "73352",
+  "email_center": "cmmurillo@sena.edu.co",
+  "vice_principal": "Claudia Marcela Murillo Salguero",
+  "contact_vice_principal": "cmmurillo@sena.edu.co"
+},{
+  "_id": "9201",
+  "regionale": "2",
+  "training_center": "9201-centro Del Diseño Y Manufactura Del Cuero",
+  "center_direction": "Cl.63  58b-03  Itagui-calatrava",
+  "telephone_center": "5149280",
+  "email_center": "jeramirezv@sena.edu.co",
+  "vice_principal": "Julián Esteban Ramírez Velásquez",
+  "contact_vice_principal": "jeramirezv@sena.edu.co"
+},{
+  "_id": "9203",
+  "regionale": "2",
+  "training_center": "9203-centro Para El Desarrollo Del Hábitat Y La Construcción",
+  "center_direction": "Diag.104  69-120 El Pedregal",
+  "telephone_center": "43305",
+  "email_center": "xposada@sena.edu.co",
+  "vice_principal": "Xiomara Posada Zuluaga",
+  "contact_vice_principal": "xposada@sena.edu.co"
+},{
+  "_id": "9227",
+  "regionale": "32",
+  "training_center": "9227-Centro de Electricidad y Automatización Industrial -CEAI",
+  "center_direction": "Calle 52 No. 2 Bis 15",
+  "telephone_center": "22814",
+  "email_center": "aibarra@sena.edu.co",
+  "vice_principal": "Ángela Patricia Ibarra Quiroga",
+  "contact_vice_principal": "aibarra@sena.edu.co"
+},{
+  "_id": "9228",
+  "regionale": "32",
+  "training_center": "9228-Centro de la Construcción",
+  "center_direction": "Calle 34 No. 17 B 23",
+  "telephone_center": "23529",
+  "email_center": "beatriz.cobo@sena.edu.co",
+  "vice_principal": "Beatriz Eugenia Cobo Garcia ",
+  "contact_vice_principal": "beatriz.cobo@sena.edu.co"
+},{
+  "_id": "9229",
+  "regionale": "32",
+  "training_center": "9229-Centro de Diseño Tecnológico Industrial",
+  "center_direction": "Calle 52 No. 2 Bis 15",
+  "telephone_center": "22718",
+  "email_center": "aavalencia@sena.edu.co",
+  "vice_principal": "Alex Amed Valencia Rojas",
+  "contact_vice_principal": "aavalencia@sena.edu.co"
+},{
+  "_id": "9230",
+  "regionale": "32",
+  "training_center": "9230-Centro Nacional de Asistencia Técnica a la Industria -ASTIN",
+  "center_direction": "Calle 52 No. 2 Bis 15",
+  "telephone_center": "22721",
+  "email_center": "pcramirez@sena.edu.co",
+  "vice_principal": "Paulo César Ramírez Quintero",
+  "contact_vice_principal": "pcramirez@sena.edu.co"
+},{
+  "_id": "9301",
+  "regionale": "2",
+  "training_center": "9301-Centro de Comercio",
+  "center_direction": "Calle 51 No. 57 – 70 Torre Sur Piso 5",
+  "telephone_center": "42021 - 42012",
+  "email_center": "avalderrama@sena.edu.co",
+  "vice_principal": "Ángela María Valderrama Vélez",
+  "contact_vice_principal": "avalderrama@sena.edu.co"
+},{
+  "_id": "9302",
+  "regionale": "4",
+  "training_center": "9302-Centro de Comercio y Servicios",
+  "center_direction": "Carrera 43  42-40 Piso 10",
+  "telephone_center": "52000",
+  "email_center": "yycortes@sena.edu.co",
+  "vice_principal": "Yizy Yeline Cortés Padilla",
+  "contact_vice_principal": "yycortes@sena.edu.co"
+},{
+  "_id": "9304",
+  "regionale": "5",
+  "training_center": "9304-Centro de Comercio y Servicios",
+  "center_direction": "Ternera Km 1 Vía Turbaco",
+  "telephone_center": "52451",
+  "email_center": "ylromero@sena.edu.co",
+  "vice_principal": "Yeny Liney Romero Ochoa",
+  "contact_vice_principal": "ylromero@sena.edu.co"
+},{
+  "_id": "9305",
+  "regionale": "6",
+  "training_center": "9305-Centro de Gestión Administrativa y Fortalecimiento Empresarial ",
+  "center_direction": "Calle 19  12-29",
+  "telephone_center": "82554",
+  "email_center": "lymartinezs@sena.edu.co",
+  "vice_principal": "Lidya Yolanda Martínez Silva",
+  "contact_vice_principal": "lymartinezs@sena.edu.co"
+},{
+  "_id": "9307",
+  "regionale": "10",
+  "training_center": "9307-Centro de Comercio y Servicios",
+  "center_direction": "Calle 4  2-80",
+  "telephone_center": "22408",
+  "email_center": "faescobar@sena.edu.co",
+  "vice_principal": "Fernando Alfonso Escobar Quira",
+  "contact_vice_principal": "faescobar@sena.edu.co"
+},{
+  "_id": "9309",
+  "regionale": "29",
+  "training_center": "9309-Centro de Servicios Empresariales y Turísticos",
+  "center_direction": "Carrera 27 No. 42 - 68",
+  "telephone_center": "73125",
+  "email_center": "prodriguez@sena.edu.co",
+  "vice_principal": "Celia Patricia Rodríguez Martínez  ",
+  "contact_vice_principal": "prodriguez@sena.edu.co"
+},{
+  "_id": "9310",
+  "regionale": "31",
+  "training_center": "9310-Centro de Comercio y Servicios",
+  "center_direction": "Transversal 1ª No. 42-44",
+  "telephone_center": "84257",
+  "email_center": "afbermudez@sena.edu.co",
+  "vice_principal": "Alvaro Fredy Bermúdez Salazar",
+  "contact_vice_principal": "afbermudez@sena.edu.co"
+},{
+  "_id": "9311",
+  "regionale": "32",
+  "training_center": "9311-Centro de Gestión Tecnológica de Servicios",
+  "center_direction": "Calle 52 No. 2 Bis 15",
+  "telephone_center": "22645",
+  "email_center": "edgar.herrera@sena.edu.co",
+  "vice_principal": "Edgar Orlando Herrera Prieto",
+  "contact_vice_principal": "edgar.herrera@sena.edu.co"
+},{
+  "_id": "9401",
+  "regionale": "2",
+  "training_center": "9401-Centro de Servicios de Salud",
+  "center_direction": "Calle 51 No. 57 – 70 Torre Sur",
+  "telephone_center": "0",
+  "email_center": "nlsalazarm@sena.edu.co",
+  "vice_principal": "Nora Luz Salazar Marulanda",
+  "contact_vice_principal": "nlsalazarm@sena.edu.co"
+},{
+  "_id": "9402",
+  "regionale": "2",
+  "training_center": "9402-Centro de Servicios y Gestión Empresarial",
+  "center_direction": "Calle 51 No. 57 – 70 Torre Norte",
+  "telephone_center": "42010",
+  "email_center": "rsuescun@sena.edu.co",
+  "vice_principal": "Rosalía Suescún Giraldo ",
+  "contact_vice_principal": "rsuescun@sena.edu.co"
+},{
+  "_id": "9501",
+  "regionale": "2",
+  "training_center": "9501-Complejo Tecnológico para la Gestión Agroempresarial",
+  "center_direction": "Transversal 16 calle 33 No. 102",
+  "telephone_center": "0",
+  "email_center": "atunjuano@sena.edu.co",
+  "vice_principal": "Angie Carolina Tunjano Gutiérrez ",
+  "contact_vice_principal": "atunjuano@sena.edu.co"
+},{
+  "_id": "9503",
+  "regionale": "2",
+  "training_center": "9503-Centro de la Innovación, la Agroindustria y la Aviación",
+  "center_direction": "Carrera 1 No. 28-71",
+  "telephone_center": "44100",
+  "email_center": "jolondono@sena.edu.co",
+  "vice_principal": "Jorge Antonio Londoño ",
+  "contact_vice_principal": "jolondono@sena.edu.co"
+},{
+  "_id": "9504",
+  "regionale": "2",
+  "training_center": "9504-Complejo Tecnológico Agroindustrial, Pecuario y Turístico",
+  "center_direction": "Kilometro 1 Salida Turbo",
+  "telephone_center": "44235 - 44200",
+  "email_center": "egranada@sena.edu.co",
+  "vice_principal": "Elkin Humberto Granada Jiménez ",
+  "contact_vice_principal": "egranada@sena.edu.co"
+},{
+  "_id": "9222",
+  "regionale": "20",
+  "training_center": "9222-Centro Industrial y de Energías Alternativas",
+  "center_direction": "Calle 21 Avenida Aeropuerto Esquina",
+  "telephone_center": "53551",
+  "email_center": "croblesp@sena.edu.co",
+  "vice_principal": "Carlos Eduardo Robles Palomino",
+  "contact_vice_principal": "croblesp@sena.edu.co"
+},{
+  "_id": "9232",
+  "regionale": "16",
+  "training_center": "9232-Centro Industrial y de Desarrollo Empresarial de Soacha",
+  "center_direction": "Clle 13 No. 10 -60",
+  "telephone_center": "18000",
+  "email_center": "rprietol@sena.edu.co",
+  "vice_principal": "Roberto Prieto Ladino",
+  "contact_vice_principal": "rprietol@sena.edu.co"
+},{
+  "_id": "9303",
+  "regionale": "15",
+  "training_center": "9303-Centro de Gestión de Mercados, Logística y Tecnologías de la Información",
+  "center_direction": "Calle 52 No 13-65",
+  "telephone_center": "16900",
+  "email_center": "jgarciad@sena.edu.co",
+  "vice_principal": "Jaime García Di Motoli",
+  "contact_vice_principal": "jgarciad@sena.edu.co"
+},{
+  "_id": "9403",
+  "regionale": "15",
+  "training_center": "9403-Centro de Formación de Talento Humano en Salud",
+  "center_direction": "Carrera 6 No. 45 - 52",
+  "telephone_center": "15852",
+  "email_center": "gamedina@sena.edu.co",
+  "vice_principal": "Gerardo Arturo Medina Rosas ",
+  "contact_vice_principal": "gamedina@sena.edu.co"
+},{
+  "_id": "9514",
+  "regionale": "6",
+  "training_center": "9514-Centro Industrial de Mantenimiento y Manufactura",
+  "center_direction": "Carrera 12  55 A – 51",
+  "telephone_center": "82103",
+  "email_center": "gaorjuelam@sena.edu.co",
+  "vice_principal": "Germán Antonio Orjuela Medina",
+  "contact_vice_principal": "gaorjuelam@sena.edu.co"
+},{
+  "_id": "9515",
+  "regionale": "7",
+  "training_center": "9515-Centro Pecuario y Agroempresarial",
+  "center_direction": "Calle 41 Carrera 1ª.",
+  "telephone_center": "82850",
+  "email_center": "omaldonadom@sena.edu.co",
+  "vice_principal": "Oscar Andrés Maldonado Mora ",
+  "contact_vice_principal": "omaldonadom@sena.edu.co"
+},{
+  "_id": "9516",
+  "regionale": "8",
+  "training_center": "9516-Centro Tecnológico de la Amazonia",
+  "center_direction": "Kilómetro 3 Vía Aeropuerto",
+  "telephone_center": "82950",
+  "email_center": "imaya@sena.edu.co",
+  "vice_principal": "Irma Omaira Maya",
+  "contact_vice_principal": "imaya@sena.edu.co"
+},{
+  "_id": "9517",
+  "regionale": "1",
+  "training_center": "9517-Centro para la Biodiversidad y el Turismo del Amazonas",
+  "center_direction": "Carretera Vía Leticia Tarapaca Km 1.3",
+  "telephone_center": "85811- 85816",
+  "email_center": "aarangos@sena.edu.co",
+  "vice_principal": "Arturo Arango Santos",
+  "contact_vice_principal": "aarangos@sena.edu.co"
+},{
+  "_id": "9518",
+  "regionale": "25",
+  "training_center": "9518-Centro Agroforestal y Acuícola Arapaima",
+  "center_direction": "Cra 23 A No 25-06, B. 20 de Julio",
+  "telephone_center": "84855",
+  "email_center": "wrodriguez@sena.edu.co",
+  "vice_principal": "Willian James Rodríguez Ortiz",
+  "contact_vice_principal": "wrodriguez@sena.edu.co"
+},{
+  "_id": "9519",
+  "regionale": "9",
+  "training_center": "9519-Centro Agroindustrial y Fortalecimiento Empresarial de Casanare",
+  "center_direction": "Carrera 19 No. 36-68",
+  "telephone_center": "84750",
+  "email_center": "johana.medina@sena.edu.co",
+  "vice_principal": "Johana Astrid Medina Peña",
+  "contact_vice_principal": "johana.medina@sena.edu.co"
+},{
+  "_id": "9520",
+  "regionale": "11",
+  "training_center": "9520-Centro Agroempresarial",
+  "center_direction": "Km 1 Vía Bucaramanga",
+  "telephone_center": "53269",
+  "email_center": "arestrepor@sena.edu.co",
+  "vice_principal": "Álvaro Enrique Restrepo Domínguez",
+  "contact_vice_principal": "arestrepor@sena.edu.co"
+},{
+  "_id": "9521",
+  "regionale": "11",
+  "training_center": "9521-Centro de Operación y Mantenimiento Minero",
+  "center_direction": "Kra 19 calles 15 y 15",
+  "telephone_center": "52900",
+  "email_center": "jjimenezj@sena.edu.co",
+  "vice_principal": "Juan Manuel Jiménez Jiménez ",
+  "contact_vice_principal": "jjimenezj@sena.edu.co"
+},{
+  "_id": "9522",
+  "regionale": "12",
+  "training_center": "9522-Centro de Recursos Naturales, Industria y Biodiversidad",
+  "center_direction": "Carrera 1 No. 28-71",
+  "telephone_center": "44400",
+  "email_center": "jblancoc@sena.edu.co",
+  "vice_principal": "Juan Carlos Blanco Córdoba",
+  "contact_vice_principal": "jblancoc@sena.edu.co"
+},{
+  "_id": "9523",
+  "regionale": "13",
+  "training_center": "9523-Centro de Comercio, Industria y Turismo de Córdoba",
+  "center_direction": "Avenida circunvalar calle 24 y 27",
+  "telephone_center": "53352",
+  "email_center": "ajmiranda@sena.edu.co",
+  "vice_principal": "Aura Josefina Miranda Mendoza",
+  "contact_vice_principal": "ajmiranda@sena.edu.co"
+},{
+  "_id": "9530",
+  "regionale": "3",
+  "training_center": "9530-Centro de Gestión y Desarrollo Agroindustrial de Arauca",
+  "center_direction": "Carrera 20 No.28-163",
+  "telephone_center": "74230 - 74245",
+  "email_center": "Eddie.millan@sena.edu.co",
+  "vice_principal": "Eddie Yovanny Millán",
+  "contact_vice_principal": "Eddie.millan@sena.edu.co"
+},{
+  "_id": "9531",
+  "regionale": "34",
+  "training_center": "9531-Centro de Producción y Transformación Agroindustrial de la Orinoquia",
+  "center_direction": "Cra 10 Nº 15 – 71 Barrio la Primavera",
+  "telephone_center": "85476",
+  "email_center": "mcrojasm@sena.edu.co",
+  "vice_principal": "Martha Cecilia Rojas Mena",
+  "contact_vice_principal": "mcrojasm@sena.edu.co"
+},{
+  "_id": "9308",
+  "regionale": "27",
+  "training_center": "9308-centro De Comercio Y Servicios",
+  "center_direction": "Cra 8ª 26-79",
+  "telephone_center": "63201",
+  "email_center": "angomezc@sena.edu.co",
+  "vice_principal": "Andrés Gómez Calderón",
+  "contact_vice_principal": "angomezc@sena.edu.co"
+},{
+  "_id": "9226",
+  "regionale": "31",
+  "training_center": "9226-centro De Industria Y Construcción",
+  "center_direction": "Carrera  45 Sur  No. 141-05 Sector Picaleña, Contiguo A La Casa De La Moneda",
+  "telephone_center": "86050",
+  "email_center": "llmartinezc@sena.edu.co",
+  "vice_principal": "Lina Lizeth Martinez Calderon",
+  "contact_vice_principal": "llmartinezc@sena.edu.co"
+},{
+  "_id": "9529",
+  "regionale": "21",
+  "training_center": "9529-centro De Logística Y Promoción Ecoturística Del Magdalena",
+  "center_direction": "Avenida Ferrocarril  27-97",
+  "telephone_center": "53874",
+  "email_center": "erobles@sena.edu.co",
+  "vice_principal": "Jairo John Abello Camargo",
+  "contact_vice_principal": "jabello@sena.edu.co"
+},{
+  "_id": "9502",
+  "regionale": "2",
+  "training_center": "9502-complejo Tecnológico Minero Agroempresarial",
+  "center_direction": "Calle 50 Vía La Malena",
+  "telephone_center": "43751",
+  "email_center": "fcano@sena.edu.co",
+  "vice_principal": "Fernando Cano Gómez",
+  "contact_vice_principal": "fcano@sena.edu.co"
+},{
+  "_id": "9534",
+  "regionale": "23",
+  "training_center": "9534-Centro Sur Colombiano de Logística Internacional",
+  "center_direction": "Carrera 8 No. 23-117",
+  "telephone_center": "72226",
+  "email_center": "lramirezv@sena.edu.co",
+  "vice_principal": "Libia Mercedes Ramírez Velasco",
+  "contact_vice_principal": "lramirezv@sena.edu.co"
+},{
+  "_id": "9535",
+  "regionale": "23",
+  "training_center": "9535-Centro Agroindustrial y Pesquero de la Costa Pacifica",
+  "center_direction": "Calle del Comercio Muelle",
+  "telephone_center": "74452",
+  "email_center": "chaguirre@sena.edu.co",
+  "vice_principal": "Carlos Hernando Aguirre Riascos",
+  "contact_vice_principal": "chaguirre@sena.edu.co"
+},{
+  "_id": "9536",
+  "regionale": "23",
+  "training_center": "9536-Centro Internacional de Producción Limpia - Lope",
+  "center_direction": "Calle 22 No. 11 Este-05. Vía a Oriente",
+  "telephone_center": "72046",
+  "email_center": "pbastidas@sena.edu.co",
+  "vice_principal": "Pedro Pablo Bastidas Molina",
+  "contact_vice_principal": "pbastidas@sena.edu.co"
+},{
+  "_id": "9537",
+  "regionale": "24",
+  "training_center": "9537-Centro de la Industria, la Empresa y los Servicios",
+  "center_direction": "Calle 2N  Avenidas 4y5 Pescadero",
+  "telephone_center": "72567",
+  "email_center": "erivera@sena.edu.co",
+  "vice_principal": "Eduardo Rivera Sierra",
+  "contact_vice_principal": "erivera@sena.edu.co"
+},{
+  "_id": "9539",
+  "regionale": "28",
+  "training_center": "9539-Centro de Formación Turística, Gente de Mar y de Servicios",
+  "center_direction": "Avenida Francisco Newball",
+  "telephone_center": "85139",
+  "email_center": "laldanap@sena.edu.co",
+  "vice_principal": "Lorena Aldana Pedrozo",
+  "contact_vice_principal": "laldanap@sena.edu.co"
+},{
+  "_id": "9540",
+  "regionale": "29",
+  "training_center": "9540-Centro Industrial y del Desarrollo Tecnológico",
+  "center_direction": "Carrera 28 n 56 - 10 Barrio Galan",
+  "telephone_center": "73651",
+  "email_center": "iafanador@sena.edu.co",
+  "vice_principal": "Isidoro Afanador Carreño",
+  "contact_vice_principal": "iafanador@sena.edu.co"
+},{
+  "_id": "9542",
+  "regionale": "30",
+  "training_center": "9542-Centro de la Innovación, la Tecnología y los Servicios",
+  "center_direction": "Calle 25B No 31-260",
+  "telephone_center": "24201",
+  "email_center": "megomez@sena.edu.co",
+  "vice_principal": "Marco Eugenio Gómez Ordosgoitia",
+  "contact_vice_principal": "megomez@sena.edu.co"
+},{
+  "_id": "9543",
+  "regionale": "32",
+  "training_center": "9543-Centro de Tecnologías Agroindustriales",
+  "center_direction": "Carrera 9 No. 12 -141",
+  "telephone_center": "23601",
+  "email_center": "gacastro@sena.edu.co",
+  "vice_principal": "Gerardo Augusto Castro Muñoz",
+  "contact_vice_principal": "gacastro@sena.edu.co"
+},{
+  "_id": "9544",
+  "regionale": "32",
+  "training_center": "9544-Centro de Biotecnología Industrial",
+  "center_direction": "Carrera 30 No 40 - 25",
+  "telephone_center": "23738",
+  "email_center": "johnnatan.figueroa@sena.edu.co",
+  "vice_principal": "Johnnatan Andrés  Figueroa Hidalgo",
+  "contact_vice_principal": "johnnatan.figueroa@sena.edu.co"
+},{
+  "_id": "9524",
+  "regionale": "20",
+  "training_center": "9524-Centro Agroempresarial y Acuícola",
+  "center_direction": "Km 1 Vía Barrancas",
+  "telephone_center": "53800",
+  "email_center": "amaestrep@sena.edu.co",
+  "vice_principal": "Ángel María Maestre Peralta",
+  "contact_vice_principal": "amaestrep@sena.edu.co"
+},{
+  "_id": "9526",
+  "regionale": "19",
+  "training_center": "9526-Centro de Desarrollo Agroempresarial y Turístico del Huila",
+  "center_direction": "Carrera 3 No 2-03",
+  "telephone_center": "73714",
+  "email_center": "amvalenciac@sena.edu.co",
+  "vice_principal": "Adriana Marcela Valencia Cardona",
+  "contact_vice_principal": "amvalenciac@sena.edu.co"
+},{
+  "_id": "9527",
+  "regionale": "19",
+  "training_center": "9527-Centro de la Industria, la Empresa y los Servicios",
+  "center_direction": "Calle 66 No. 8-25",
+  "telephone_center": "83350 - 83405",
+  "email_center": "earias@sena.edu.co ",
+  "vice_principal": "Esperanza Arias Moya",
+  "contact_vice_principal": "earias@sena.edu.co "
+},{
+  "_id": "9528",
+  "regionale": "19",
+  "training_center": "9528-Centro de Gestión y Desarrollo Sostenible Surcolombiano",
+  "center_direction": "Carrera 8 No. 7-53",
+  "telephone_center": "83800",
+  "email_center": "jaramirezl@sena.edu.co",
+  "vice_principal": "James Antonio Ramírez López",
+  "contact_vice_principal": "jaramirezl@sena.edu.co"
+},{
+  "_id": "9533",
+  "regionale": "18",
+  "training_center": "9533-Centro de Desarrollo Agroindustrial, Turístico y Tecnológico del Guaviare",
+  "center_direction": "Cra. 24 7 - 10",
+  "telephone_center": "85300",
+  "email_center": "lpecheverry@sena.edu.co",
+  "vice_principal": "Luz Piedad Echeverry Quiceno",
+  "contact_vice_principal": "lpecheverry@sena.edu.co"
+},{
+  "_id": "9545",
+  "regionale": "29",
+  "training_center": "9545-Centro Agroempresarial y Turístico de los Andes",
+  "center_direction": "Carrera 11 No. 13-13 Barrio Ricaute",
+  "telephone_center": "74007",
+  "email_center": "jlsilva@sena.edu.co",
+  "vice_principal": "José Leonardo Silva Rivera",
+  "contact_vice_principal": "jlsilva@sena.edu.co"
+},{
+  "_id": "9546",
+  "regionale": "29",
+  "training_center": "9546-Centro de Gestión Agroempresarial del Oriente",
+  "center_direction": "Calle 8 No. 2 Este Par Av. Las Cuadras",
+  "telephone_center": "74100",
+  "email_center": "hbariza@sena.edu.co",
+  "vice_principal": "Herika Bibiana Ariza González",
+  "contact_vice_principal": "hbariza@sena.edu.co"
+},{
+  "_id": "9547",
+  "regionale": "17",
+  "training_center": "9547-Centro Ambiental y Ecoturistico del Nororiente Amazónico",
+  "center_direction": "Transversal 6ª No 29ª 03 Vía al Coco",
+  "telephone_center": "85264 - 85258",
+  "email_center": "jorojasb@sena.edu.co",
+  "vice_principal": "Jairo Orlando Rojas Buitrago",
+  "contact_vice_principal": "jorojasb@sena.edu.co"
+},{
+  "_id": "9549",
+  "regionale": "2",
+  "training_center": "9549-Complejo Tecnológico, Turístico y Agroindustrial del Occidente Antioqueño",
+  "center_direction": "Calle 11 Nro. 12-42",
+  "telephone_center": "43060",
+  "email_center": "atunjuano@sena.edu.co",
+  "vice_principal": "Angie Carolina Tunjano Gutiérrez ",
+  "contact_vice_principal": "atunjuano@sena.edu.co"
+},{
+  "_id": "9548",
+  "regionale": "33",
+  "training_center": "9548-Centro Agropecuario Y De Servicios Ambientales Jiri-jirimo",
+  "center_direction": "Avenida 15 No. 6 - 176 Barrio San José",
+  "telephone_center": "85400",
+  "email_center": "lvelasquezc@sena.edu.co",
+  "vice_principal": "Luz Empir Velásquez Camargo",
+  "contact_vice_principal": "lvelasquezc@sena.edu.co"
+},{
+  "_id": "9116",
+  "regionale": "19",
+  "training_center": "9116-Centro de Formación Agroindustrial",
+  "center_direction": "Km. 40 via Campoalegre",
+  "telephone_center": "83567",
+  "email_center": "cherrerag@sena.edu.co",
+  "vice_principal": "Candido Herrera González",
+  "contact_vice_principal": "cherrerag@sena.edu.co"
+},{
+  "_id": "9210",
+  "regionale": "15",
+  "training_center": "9210-Centro de Electricidad, Electrónica y Telecomunicaciones",
+  "center_direction": "Avenida 30 No 17B-25 Sur",
+  "telephone_center": "14914",
+  "email_center": "cygomez@sena.edu.co",
+  "vice_principal": "Claudia Janet Gómez Larrotta",
+  "contact_vice_principal": "cygomez@sena.edu.co"
+},{
+  "_id": "9211",
+  "regionale": "15",
+  "training_center": "9211-Centro de Gestión Industrial",
+  "center_direction": "Carrera 31 No 14-20",
+  "telephone_center": "15554",
+  "email_center": "fahernandez@sena.edu.co",
+  "vice_principal": "Fabio Hernández Rodríguez",
+  "contact_vice_principal": "fahernandez@sena.edu.co"
+},{
+  "_id": "9212",
+  "regionale": "15",
+  "training_center": "9212-Centro de Manufactura en Textil y Cuero",
+  "center_direction": "Avenida 30 No 17B-25 Sur",
+  "telephone_center": "14916",
+  "email_center": "senciso@sena.edu.co",
+  "vice_principal": "Sonia Enciso Mosquera ",
+  "contact_vice_principal": "senciso@sena.edu.co"
+},{
+  "_id": "9213",
+  "regionale": "15",
+  "training_center": "9213-Centro de Tecnologías del Transporte",
+  "center_direction": "Autopista Sur, Carrera 4 # 53-54 - Zona industrial Cazucá",
+  "telephone_center": "18501",
+  "email_center": "wdriano@sena.edu.co",
+  "vice_principal": "William Darío Riaño Barón",
+  "contact_vice_principal": "wdriano@sena.edu.co"
+},{
+  "_id": "9214",
+  "regionale": "15",
+  "training_center": "9214-Centro Metalmecánico",
+  "center_direction": "Avenida 30 No 17B-25 Sur",
+  "telephone_center": "14912",
+  "email_center": "jmarin@sena.edu.co",
+  "vice_principal": "Jairo Iván Marín Másmela",
+  "contact_vice_principal": "jmarin@sena.edu.co"
+},{
+  "_id": "9216",
+  "regionale": "15",
+  "training_center": "9216-Centro de Diseño y Metrología",
+  "center_direction": "Carrera 31 No 14-20",
+  "telephone_center": "15458",
+  "email_center": "rmartinezp@sena.edu.co",
+  "vice_principal": "Rodolfo Martínez Pérez",
+  "contact_vice_principal": "rmartinezp@sena.edu.co"
+},{
+  "_id": "9217",
+  "regionale": "15",
+  "training_center": "9217-Centro para la Industria de la Comunicación Grafica",
+  "center_direction": "Carrera 31 No 14-20",
+  "telephone_center": "15463",
+  "email_center": "dguevara@sena.edu.co",
+  "vice_principal": "Doris Cristina Guevara Armenta",
+  "contact_vice_principal": "dguevara@sena.edu.co"
+},{
+  "_id": "9404",
+  "regionale": "15",
+  "training_center": "9404-Centro de Gestión Administrativa",
+  "center_direction": "Avenida Carracas No 13-65",
+  "telephone_center": "16000",
+  "email_center": "wtriana@sena.edu.co",
+  "vice_principal": "Waine Antony Triana Albis",
+  "contact_vice_principal": "wtriana@sena.edu.co"
+},{
+  "_id": "9405",
+  "regionale": "15",
+  "training_center": "9405-Centro de Servicios Financieros",
+  "center_direction": "Carrera 13 No 65-10",
+  "telephone_center": "14510",
+  "email_center": "miparrap@sena.edu.co",
+  "vice_principal": "Mireya Parra Pinto",
+  "contact_vice_principal": "miparrap@sena.edu.co"
+},{
+  "_id": "9406",
+  "regionale": "15",
+  "training_center": "9406-Centro Nacional de Hoteleria, Turismo y Alimentos",
+  "center_direction": "Carrera 31 No 14-20",
+  "telephone_center": "15555",
+  "email_center": "cbarons@sena.edu.co",
+  "vice_principal": "Carlos Alberto Barón Serrano",
+  "contact_vice_principal": "cbarons@sena.edu.co"
+},{
+  "_id": "9509",
+  "regionale": "16",
+  "training_center": "9509-Centro de Desarrollo Agroindustrial y Empresarial",
+  "center_direction": "Calle 2 No. 13 – 03 Barrio San Rafael",
+  "telephone_center": "17350",
+  "email_center": "ypalvaradoz@sena.edu.co",
+  "vice_principal": "Yina Paola Alvarado Zambrano ",
+  "contact_vice_principal": "ypalvaradoz@sena.edu.co"
+},{
+  "_id": "9510",
+  "regionale": "16",
+  "training_center": "9510-Centro Agroecológico y Empresarial ",
+  "center_direction": "Avenida Manuel Humberto Cardenas calle 16",
+  "telephone_center": "17552",
+  "email_center": "jmaldonadon@sena.edu.co",
+  "vice_principal": "Jimmy Gonzalo Maldonado Novoa",
+  "contact_vice_principal": "jmaldonadon@sena.edu.co"
+},{
+  "_id": "9511",
+  "regionale": "16",
+  "training_center": "9511-Centro de la Tecnología de Diseño y la Productividad Empresarial",
+  "center_direction": "Cra. 10 No. 30 – 04",
+  "telephone_center": "17704",
+  "email_center": "correac@sena.edu.co",
+  "vice_principal": "David Alberto Correa Castillo",
+  "contact_vice_principal": "correac@sena.edu.co"
+},{
+  "_id": "9512",
+  "regionale": "16",
+  "training_center": "9512-centro De Biotecnología Agropecuaria",
+  "center_direction": "Kilometro 7 Vía Mosquera",
+  "telephone_center": "17850",
+  "email_center": "ngomezb@sena.edu.co",
+  "vice_principal": "Nelson Octavio Gómez Botero",
+  "contact_vice_principal": "ngomezb@sena.edu.co"
+},{
+  "_id": "9525",
+  "regionale": "19",
+  "training_center": "9525-centro Agroempresarial Y Desarrollo Pecuario Del Huila",
+  "center_direction": "Carrera 10 No 11-22",
+  "telephone_center": "83600",
+  "email_center": "lugonzales@sena.edu.co",
+  "vice_principal": "Luís Humberto González Ortiz",
+  "contact_vice_principal": "lugonzales@sena.edu.co"
+},{
+  "_id": "9215",
+  "regionale": "15",
+  "training_center": "9215-centro De Materiales Y Ensayos",
+  "center_direction": "Avenida 30 No 17b-25 Sur",
+  "telephone_center": "14910",
+  "email_center": "sjcamacho@sena.edu.co",
+  "vice_principal": "Santiago Julio Camacho Peña",
+  "contact_vice_principal": "sjcamacho@sena.edu.co"
+},{
+  "_id": "9120",
+  "regionale": "26",
+  "training_center": "9120-Centro Agroindustrial Del Quindio",
+  "center_direction": "Avenida Centenario 42N-02",
+  "telephone_center": "62801 - 62876",
+  "email_center": "nfjimenez@sena.edu.co",
+  "vice_principal": "Nestor Jiménez Serna",
+  "contact_vice_principal": "nfjimenez@sena.edu.co"
+},{
+  "_id": "9538",
+  "regionale": "26",
+  "training_center": "9538-Centro de Comercio y Turismo",
+  "center_direction": "Carrera 18 No. 7-58",
+  "telephone_center": "62689",
+  "email_center": "cospinap@sena.edu.co",
+  "vice_principal": "Cesar Augusto Ospina Puertas",
+  "contact_vice_principal": "cospinap@sena.edu.co"
+},{
+  "_id": "9306",
+  "regionale": "7",
+  "training_center": "9306-centro De Comercio Y Servicios",
+  "center_direction": "Kilómetro 10 Vía Al Magdalena",
+  "telephone_center": "62005",
+  "email_center": "wrojasc@sena.edu.co",
+  "vice_principal": "Wilson Alejandro Rojas Calvo",
+  "contact_vice_principal": "wrojasc@sena.edu.co"
+},{
+  "_id": "9124",
+  "regionale": "32",
+  "training_center": "9124-centro Agropecuario De Buga",
+  "center_direction": "Carretera Central Variante Buga - Tulúa",
+  "telephone_center": "23295",
+  "email_center": "dfbolanos@sena.edu.co",
+  "vice_principal": "Diego Fernando Bolaños Bustos",
+  "contact_vice_principal": "dfbolanos@sena.edu.co"
+},{
+  "_id": "9223",
+  "regionale": "27",
+  "training_center": "9223-centro De Diseño E Innovación Tecnológica Industrial",
+  "center_direction": "Transversal 7 Calle 26 Barrio Santa Isabel",
+  "telephone_center": "63361",
+  "email_center": "sgarciag@sena.edu.co",
+  "vice_principal": "Sandra Yulieth Garcia Gonzalez",
+  "contact_vice_principal": "sgarciag@sena.edu.co"
+},{
+  "_id": "9231",
+  "regionale": "26",
+  "training_center": "9231-centro Para El Desarrollo Tecnológico De La Construcción Y La Industria",
+  "center_direction": "Avenida Centenario 47 Norte -15",
+  "telephone_center": "62805",
+  "email_center": "aagomezr@sena.edu.co",
+  "vice_principal": "Anstrong Alberto Gómez Ríos",
+  "contact_vice_principal": "aagomezr@sena.edu.co"
+},{
+  "_id": "9513",
+  "regionale": "16",
+  "training_center": "9513 - Centro De Desarrollo Agroempresarial",
+  "center_direction": "Vereda Bojacá Carrera 11 Sector El Darien Lote 1 Chia",
+  "telephone_center": "18051",
+  "email_center": "lbarraganb@sena.edu.co",
+  "vice_principal": "Leonora Barragan Bedoya",
+  "contact_vice_principal": "lbarraganb@sena.edu.co"
+},{
+  "_id": "9508",
+  "regionale": "15",
+  "training_center": "9508-centro De Formación En Actividad Física Y Cultura",
+  "center_direction": "Transversal 79 No 41d-15 Sur Kennedy",
+  "telephone_center": "16552",
+  "email_center": "njrodriguez@sena.edu.co",
+  "vice_principal": "Nydia Jimena Rodríguez Rodríguez",
+  "contact_vice_principal": "njrodriguez@sena.edu.co"
+},{
+  "_id": "9541",
+  "regionale": "29",
+  "training_center": "9541-centro Agroturístico",
+  "center_direction": "Calle 22 No. 9 - 82",
+  "telephone_center": "7248113",
+  "email_center": "ojgelvez@sena.edu.co",
+  "vice_principal": "Oscar Julian Gelvez Lozano",
+  "contact_vice_principal": "ojgelvez@sena.edu.co"
+},{
+  "_id": "9552",
+  "regionale": "10",
+  "training_center": "Centro De Teleinformatica Y Produccion Industrial",
+  "center_direction": "Carrera6 #8-88",
+  "telephone_center": "3245978165",
+  "email_center": "ctpi@sena.edu.co",
+  "vice_principal": "Humberto Polanco",
+  "contact_vice_principal": "hpolanco@sena.edu.co"
+},{
+  "_id": "9551",
+  "regionale": "2",
+  "training_center": "Centro De Teleinformatica",
+  "center_direction": "Popayan",
+  "telephone_center": "5345345",
+  "email_center": "senanorte@gmail.com",
+  "vice_principal": "Fgdfdfg",
+  "contact_vice_principal": "wilian@gmail.com"
+},{
+  "_id": "1010",
+  "regionale": "14",
+  "training_center": "1010-despacho",
+  "center_direction": "Calle 57 No. 08– 55",
+  "telephone_center": "85800",
+  "email_center": "ngomezp@sena.edu.co",
+  "vice_principal": "Nidia Jeannette Gomez Perez",
+  "contact_vice_principal": "ngomezp@sena.edu.co"
+},{
+  "_id": "9554",
+  "regionale": "10",
+  "training_center": "Ctpi Prueba Actualizacion 23",
+  "center_direction": "Carrera6 #8-96",
+  "telephone_center": "32400689",
+  "email_center": "ctpiprueba@misena.edu.co",
+  "vice_principal": "Wilian Andres",
+  "contact_vice_principal": "willian@gmail.com"
+},{
+  "_id": "9556",
+  "regionale": "10",
+  "training_center": "Ctpi Prueba Creacion 29",
+  "center_direction": "Carrera6 #8-84 Barrio El Empedrado",
+  "telephone_center": "3242004187",
+  "email_center": "cp@misena.edu.co",
+  "vice_principal": "Wilian Andres",
+  "contact_vice_principal": "w@misena.edu.co"
+},{
+  "_id": "9221",
+  "regionale": "10",
+  "training_center": "9221-Centro De Teleinformática Y Producción Industrial",
+  "center_direction": "Carrera 9N  71N-60 Sede Alto Cauca",
+  "telephone_center": "22115222",
+  "email_center": "ebenavides@sena.edu.co",
+  "vice_principal": "Eduardo Antonio Benavides Perez",
+  "contact_vice_principal": "ebenavides@sena.edu.co"
+}]

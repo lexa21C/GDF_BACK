@@ -1,0 +1,229 @@
+[{
+  "_id": "1",
+  "knowledge_network": "Gestión Administrativa Y Financiera",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "2",
+  "knowledge_network": "Infraestructura",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "4"
+},{
+  "_id": "3",
+  "knowledge_network": "Red Ins. de Pedagogía",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "4",
+  "knowledge_network": "Construcción",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "4",
+    "2"
+  ]
+},{
+  "_id": "5",
+  "knowledge_network": "Cultura",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "5",
+    "1"
+  ]
+},{
+  "_id": "7",
+  "knowledge_network": "Informática, Diseño Y Desarrollo De Software",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "1",
+    "5"
+  ]
+},{
+  "_id": "8",
+  "knowledge_network": "Mecánica Industrial",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "4",
+    "2"
+  ]
+},{
+  "_id": "9",
+  "knowledge_network": "Logística Y Gestión De La Producción",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "5"
+  ]
+},{
+  "_id": "10",
+  "knowledge_network": "Electrónica Y Automatización",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "2",
+    "3"
+  ]
+},{
+  "_id": "11",
+  "knowledge_network": "Energía Eléctrica",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "12",
+  "knowledge_network": "Telecomunicaciones",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "1"
+},{
+  "_id": "13",
+  "knowledge_network": "Artesanías",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "2"
+},{
+  "_id": "14",
+  "knowledge_network": "Artes Gráficas",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "1"
+},{
+  "_id": "15",
+  "knowledge_network": "Transporte",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "16",
+  "knowledge_network": "Materiales Para La Industria",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "4",
+    "3",
+    "2"
+  ]
+},{
+  "_id": "17",
+  "knowledge_network": "Pecuaria",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "18",
+  "knowledge_network": "Acuícola Y De Pesca",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "19",
+  "knowledge_network": "Agrícola",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "20",
+  "knowledge_network": "Hotelería Y Turismo",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "5"
+  ]
+},{
+  "_id": "21",
+  "knowledge_network": "Textil, Confección Diseño y Moda",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "2",
+    "3"
+  ]
+},{
+  "_id": "22",
+  "knowledge_network": "Automotor",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "23",
+  "knowledge_network": "Ambiental",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "24",
+  "knowledge_network": "Minería",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "5"
+  ]
+},{
+  "_id": "25",
+  "knowledge_network": "Actividad Física, Recreación Y Deporte",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "26",
+  "knowledge_network": "Comercio Y Ventas",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "27",
+  "knowledge_network": "Biotecnología",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "4"
+},{
+  "_id": "28",
+  "knowledge_network": "Salud",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+},{
+  "_id": "29",
+  "knowledge_network": "Cuero, Calzado Y Marroquinería",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "2"
+},{
+  "_id": "30",
+  "knowledge_network": "Química Aplicada",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "31",
+  "knowledge_network": "Hidrocarburos",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": [
+    "3",
+    "4"
+  ]
+},{
+  "_id": "32",
+  "knowledge_network": "Aeroespacial",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "3"
+},{
+  "_id": "34",
+  "knowledge_network": "Servicios Personales",
+  "manager_name": "Sin Registrar",
+  "advisor_name": "Sin Registrar",
+  "thematic_line": "5"
+}]

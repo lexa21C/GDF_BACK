@@ -1,0 +1,77 @@
+[{
+  "_id": "1",
+  "thematic_line": "Tecnologías de la información y las comunicaciones gestión de la información",
+  "thematic_line_description": "Las tecnologías de la información y la comunicación son un conjunto de servicios, redes, software, aparatos que tienen como fin la mejora de la calidad de vida de las personas dentro de un entorno",
+  "knowledge_network": [
+    "14",
+    "7",
+    "12",
+    "5"
+  ]
+},{
+  "_id": "2",
+  "thematic_line": "Diseño",
+  "thematic_line_description": "El diseño se define como el proceso previo de configuración mental \"pre-figuración\" en la búsqueda de una solución en cualquier campo. Es utilizado habitualmente en el contexto de las artes aplicadas, ingenierías y otras disciplinas creativas",
+  "knowledge_network": [
+    "13",
+    "21",
+    "16",
+    "8",
+    "4",
+    "29",
+    "10"
+  ]
+},{
+  "_id": "3",
+  "thematic_line": "Producción y transformación",
+  "thematic_line_description": "Comprende la creación y procesamiento/prestación de bienes/servicios, incluida su concepción, procesamiento y transformación en las diversas etapas",
+  "knowledge_network": [
+    "4",
+    "18",
+    "32",
+    "19",
+    "23",
+    "22",
+    "10",
+    "11",
+    "31",
+    "20",
+    "9",
+    "16",
+    "8",
+    "24",
+    "17",
+    "30",
+    "21"
+  ]
+},{
+  "_id": "4",
+  "thematic_line": "Materiales herramientas",
+  "thematic_line_description": "La línea de materiales y herramientas se refiere a los recursos utilizados en la alimentación de un proceso productivo, esto es, los factores de producción, y a los objetos (equipos, dispositivos, mecanismos) utilizados a fin de facilitar la realización de dicho proceso",
+  "knowledge_network": [
+    "4",
+    "16",
+    "8",
+    "27",
+    "2",
+    "31"
+  ]
+},{
+  "_id": "5",
+  "thematic_line": "Cliente",
+  "thematic_line_description": "La tecnología orientada al cliente comprende todas las actividades asociadas de la cadena de producción y o provisión de un servicio, que comprometen los procesos que tienen efecto directo en los consumidores finales o intermedios",
+  "knowledge_network": [
+    "1",
+    "20",
+    "15",
+    "5",
+    "7",
+    "3",
+    "9",
+    "28",
+    "34",
+    "25",
+    "26",
+    "24"
+  ]
+}]

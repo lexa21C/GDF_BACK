@@ -4,7 +4,8 @@ const Profile = require("../models/Profiles.js");
 const Tematic =  require("../models/Thematic_lines.js")
 const { body, validationResult } = require("express-validator");
 const { encrypt } = require("../helpers/Bycript");
-
+const { validateProfileExistence } = require('../helpers/user/registar/profileValidation.js'); 
+const { validateEmail } = require('../helpers/user/registar/emailValidation.js'); 
 //Listar usuarios
 exports.allUser = async (req, res) => {
   let apiStructure = new ApiStructure();
@@ -19,64 +20,103 @@ exports.allUser = async (req, res) => {
   res.json(apiStructure.toResponse());
 };
 
-exports.validate = [
-  body("complete_names")
-    .escape()
-    .notEmpty()
-    .matches(/^[A-Za-z0-9 ]+$/),
-  body("email", "Invalid email").exists().isEmail(),
-];
+// exports.validate = [
+//   body("complete_names")
+//     .escape()
+//     .notEmpty()
+//     .matches(/^[A-Za-z0-9 ]+$/),
+//   body("email", "Invalid email").exists().isEmail(),
+// ];
 
 // Crear usuario
+// exports.createUser = async (req, res) => {
+//   let apiStructure = new ApiStructure();
+//   let { complete_names, email, password, type_profile, thematic_lines, formation_program, training_center } = req.body;
+//   const errors = validationResult(req);
+//   if (!errors.isEmpty()) {
+//     return res.status(400).json({ errors: errors.array() });    
+//   }
+//   const email1 = validateEmail(req,res);
+//   console.log(email1)
+
+//     //* Verificar si el correo electrónico ya existe
+//     const existingUser = await User.findOne({ email });   
+//     if (existingUser) {
+//     //*devuelve una respuesta de error si el correo no es único
+//       apiStructure.setStatus("Failed", 400, `El correo electrónico '${email}' ya está registrado`);
+//       return res.json(apiStructure.toResponse());
+  
+//     }else {
+//       const r = await validateProfileExistence(type_profile, res);
+//       //* Busca un perfil en la base de datos cuyo campo 'type_profile' coincida con el valor de 'type_profile'
+//       // const r = await Profile.findOne({ type_profile: type_profile });
+//       // //* Asigna el resultado de la búsqueda a la variable 'type_profile
+//       type_profile =r
+//       // Usar la función de ayuda para validar el perfil
+      
+
+    
+    
+//       //* Cifra la variable 'password' utilizando una función de cifrado y guarda el resultado en 'passwordHash'
+//       const passwordHash = await encrypt(password);
+
+//       //* Crea el usuario si el correo es único
+//       await User.create({
+//         complete_names,
+//         email,
+//         password: passwordHash,
+//         type_profile,
+//         thematic_lines,
+//         formation_program,
+//         training_center
+//       })
+//       .then((success) => {
+//         apiStructure.setResult(success, "Usuario Creado Exitosamente");
+//       })
+//       .catch((err) => {
+//         apiStructure.setStatus(
+//           "Failed",
+//           400,
+//           err.message,
+//         )
+//       })
+//     res.json(apiStructure.toResponse());
+//     }
+//     }
+
 exports.createUser = async (req, res) => {
   let apiStructure = new ApiStructure();
   let { complete_names, email, password, type_profile, thematic_lines, formation_program, training_center } = req.body;
-
   const errors = validationResult(req);
+  
   if (!errors.isEmpty()) {
     return res.status(400).json({ errors: errors.array() });    
   }
-
-    //* Verificar si el correo electrónico ya existe
-    const existingUser = await User.findOne({ email });
-
-    if (existingUser) {
-    //*devuelve una respuesta de error si el correo no es único
-
-    apiStructure.setStatus("Failed", 400, `El correo electrónico '${email}' ya está registrado`);
+  const existingProfile = await Profile.findOne({ type_profile: type_profile });
+ //* Asigna el resultado de la búsqueda a la variable 'type_profile
+ 
+  // Cifra la variable 'password' utilizando una función de cifrado y guarda el resultado en 'passwordHash'
+  const passwordHash = await encrypt(password);
   
-    }else {
-      //* Busca un perfil en la base de datos cuyo campo 'type_profile' coincida con el valor de 'type_profile'
-      const r = await Profile.findOne({ type_profile: type_profile });
-      //* Asigna el resultado de la búsqueda a la variable 'type_profile
-      type_profile =r
-    
-      //* Cifra la variable 'password' utilizando una función de cifrado y guarda el resultado en 'passwordHash'
-      const passwordHash = await encrypt(password);
-
-      //* Crea el usuario si el correo es único
-      await User.create({
-        complete_names,
-        email,
-        password: passwordHash,
-        type_profile,
-        thematic_lines,
-        formation_program,
-        training_center
-      })
-      .then((success) => {
-        apiStructure.setResult(success, "Usuario Creado Exitosamente");
-      })
-      .catch((err) => {
-        apiStructure.setStatus(
-          "Failed",
-          400,
-          err.message,
-        )
-      })
-    res.json(apiStructure.toResponse());
-    }
-    }
+  // Crea el usuario si todo está en orden
+  try {
+    const newUser = await User.create({
+      complete_names,
+      email,
+      password: passwordHash,
+      type_profile: existingProfile, // Asegúrate de asignar el perfil existente
+      thematic_lines,
+      formation_program,
+      training_center
+    });
+  
+    apiStructure.setResult(newUser, "Usuario Creado Exitosamente");
+    return res.json(apiStructure.toResponse()); // Envía la respuesta al cliente aquí
+  } catch (err) {
+    apiStructure.setStatus("Failed", 400, err.message);
+    return res.json(apiStructure.toResponse()); // Envía la respuesta al cliente aquí en caso de error
+  }
+};
 
 
 //Mi Usuario
